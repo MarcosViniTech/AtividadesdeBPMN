@@ -8,13 +8,15 @@ As atividades incluem estudos teóricos, documentação, análise e representaç
 ## 📁 Atividades Desenvolvidas
 
 - **Entendendo Conceitos de BPMN:** estudo dos conceitos e fundamentos da notação BPMN.
-- **Descrição de Processos de Negócios:** documentação e descrição de processos de negócios.
-- **Descrição do Processo de Negócios:** atividade de representação e detalhamento de processos.
+- **Descrição de Processos de Negócios de uma Pizzaria:** documentação e descrição de processos de negócios.
+- **Descrição do Processo de Negócios de uma Pizzaria resumido:** atividade de representação e detalhamento de processos.
 - **Fluxograma BPMN – Loja de Sapatos:** modelagem do fluxo de atividades de uma loja de sapatos.
 - **Diagrama de Pizzaria:** representação visual dos processos envolvidos em uma pizzaria.
 - **Fluxograma BPMN – Suporte Técnico:** modelagem do fluxo de atendimento e suporte técnico.
 
 ## 🛠️ Ferramentas e Conceitos
+- Bizagi Modeler
+- Lucid Chart
 - BPMN (Business Process Model and Notation)
 - Modelagem de Processos
 - Fluxogramas
