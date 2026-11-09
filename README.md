@@ -1,7 +1,7 @@
 # 📊 Atividades de BPMN – Modelagem de Processos
 
 ## 📌 Sobre o Repositório
-Repositório destinado a reunir atividades acadêmicas desenvolvidas durante o semestre, envolvendo conceitos de **BPMN (Business Process Model and Notation)** e modelagem de processos de negócios.
+Repositório destinado a reunir atividades acadêmicas desenvolvidas durante o segundo semestre, envolvendo conceitos de **BPMN (Business Process Model and Notation)** e modelagem de processos de negócios.
 
 As atividades incluem estudos teóricos, documentação, análise e representação visual de processos por meio de diagramas e fluxogramas.
 
